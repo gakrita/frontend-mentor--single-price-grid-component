@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component
 
-Αυτό είναι η λύση μου για το παρακάτω challenge:
+## 🎨 Επιθυμητό Design
 
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
